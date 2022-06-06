@@ -1,7 +1,8 @@
 # GrowTracker
 
-[![Latest alpha](https://travis-ci.com/7LPdWcaW/GrowTracker-Android.svg?branch=alpha)](https://travis-ci.com/7LPdWcaW/GrowTracker-Android)
+[![Latest Nightly](https://travis-ci.com/7LPdWcaW/GrowTracker-Android.svg?branch=alpha)](https://travis-ci.com/7LPdWcaW/GrowTracker-Android)
 [![GitHub commits since latest release](https://img.shields.io/github/commits-since/7LPdWcaW/GrowTracker-Android/latest)](https://github.com/7LPdWcaW/GrowTracker-Android/releases/tag/latest)
+[![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue)](https://t.me/GrowTracker) 
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/growutils?color=orange)](https://reddit.com/r/growutils)
 [![GitHub license](https://img.shields.io/github/license/7LPdWcaW/GrowTracker-Android?color=lightgrey)](https://github.com/7LPdWcaW/GrowTracker-Android/blob/master/LICENSE)
 
@@ -9,7 +10,7 @@ Welcome to grow tracker. This is a utility app designed for gardening and tracki
 
 # Discontinuation
 
-As of 2020, major version 2 of the app is in maintenance mode, meaning only critical bugs will be fixed. All further development is reserved for **major version 3** of the application which will eventually replace this. [Read more here](https://github.com/7LPdWcaW/GrowTracker-Android/issues/206)
+As of 2020, major version 2 of the app is in maintenance mode, meaning only critical bugs will be fixed. All further development is reserved for major version 3 of the application which will eventually replace this. [Read more here](https://github.com/7LPdWcaW/GrowTracker-Android/issues/206)
 
 # Install
 
@@ -20,23 +21,23 @@ As of 2020, major version 2 of the app is in maintenance mode, meaning only crit
 
 The app requires no permissions except for external storage (for caching plant data and images) which you can see [here](https://github.com/7LPdWcaW/GrowTracker-Android/blob/develop/app/src/main/AndroidManifest.xml) in order for users to maintain anonymity, and a minimum Android version of `4.2` and above
 
-- [Latest Nightly Build (Experimental!)](https://github.com/7LPdWcaW/GrowTracker-Android/releases/tag/alpha)
+- Latest Nightly Build (Experimental) [Releases](https://github.com/7LPdWcaW/GrowTracker-Android/releases/tag/alpha)
 
-- [Latest APK: (SHA256) 893ce94c1d7da17c57869273e4c74ee3bb9ea5d6fae306bb7f96feb785601ef4 v2.6.3](https://github.com/7LPdWcaW/GrowTracker-Android/releases/download/v2.6.3/v2.6.3-production.apk)
+- Latest APK v2.6.1 [Download](https://github.com/7LPdWcaW/GrowTracker-Android/releases/download/v2.6.1/v2.6.1-production.apk) `SHA256:501786b7350eceb7b894a5745c06c378f1d2f2e6f4bf659ee2576b3dfaca5732`
 
-- [Latest APK (English only): (SHA256) 44242d3f022ea25549d0f0d4c5d04bbe659901098d5fe96b63583a33dd5f29d0 v2.6.3](https://github.com/7LPdWcaW/GrowTracker-Android/releases/download/v2.6.3/v2.6.3-en.apk)
+- Latest APK (English only) v2.6.1 [Download](https://github.com/7LPdWcaW/GrowTracker-Android/releases/download/v2.6.1/v2.6.1-en.apk) `SHA256:e366c67c54548da4c46206c953e8847ba6e4c933449ca8d33525601ee2d87bb8`
 
-- [Latest APK (Discrete): (SHA256) f8a73f83bff3b0dc00d8b4bf5670a6e43d1a37fed2d7c506e2033c619fab8012 v2.6.3](https://github.com/7LPdWcaW/GrowTracker-Android/releases/download/v2.6.3/v2.6.3-discrete.apk)
+- Latest APK (Discrete) v2.6.1 [Download](https://github.com/7LPdWcaW/GrowTracker-Android/releases/download/v2.6.1/v2.6.1-discrete.apk) `SHA256:3b5edaceb462c6fcd51d11652943357976f75b53dacdfe650f422933357688d9`
 
 ## How to install from APK
 
-1. Follow [this guide](http://www.inbox.com/article/how-do-enable-third-party-apps-on-android.html) to enable unknown sources
+1. Follow [this guide](https://www.androidauthority.com/how-to-install-apks-31494/) to enable unknown sources
 2. Download the APK from [here](https://github.com/7LPdWcaW/GrowTracker-Android/releases)
 3. Click on downloaded app and install
 
 ## Updating
 
-You can either elect to update manually, or get notified on releases by installing the [Update plugin](https://github.com/7LPdWcaW/GrowUpdater-Android/releases).
+You can either select to update manually, or get notified on releases by installing the [Update plugin](https://github.com/7LPdWcaW/GrowUpdater-Android/releases).
 
 **For updates, do not uninstall first, you will lose your existing plant data. Always back up your data!**
 
@@ -44,16 +45,15 @@ Installing the app via F-Droid makes it updateable through the F-Droid mechanism
 
 # Screenshots
 
-[![main plant list](fastlane/metadata/android/en-GB/images/phoneScreenshotsThumbs/1.png)](fastlane/metadata/android/en-GB/images/phoneScreenshots/1.png)
-[![dark main plant list](fastlane/metadata/android/en-GB/images/phoneScreenshotsThumbs/1b.png)](fastlane/metadata/android/en-GB/images/phoneScreenshots/1b.png)
-
-
-<details>
-  <summary>More screenshots</summary>
+Click on a screenshot to expand it!
 
 [![install](fastlane/metadata/android/en-GB/images/phoneScreenshotsThumbs/install.png)](fastlane/metadata/android/en-GB/images/phoneScreenshots/install.png)
 [![main plant list](fastlane/metadata/android/en-GB/images/phoneScreenshotsThumbs/1.png)](fastlane/metadata/android/en-GB/images/phoneScreenshots/1.png)
 [![plant details](fastlane/metadata/android/en-GB/images/phoneScreenshotsThumbs/2.png)](fastlane/metadata/android/en-GB/images/phoneScreenshots/2.png)
+
+<details>
+  <summary>More screenshots</summary>
+
 [![plant photos](fastlane/metadata/android/en-GB/images/phoneScreenshotsThumbs/3.png)](fastlane/metadata/android/en-GB/images/phoneScreenshots/3.png)
 [![plant actions](fastlane/metadata/android/en-GB/images/phoneScreenshotsThumbs/4.png)](fastlane/metadata/android/en-GB/images/phoneScreenshots/4.png)
 [![plant statistics](fastlane/metadata/android/en-GB/images/phoneScreenshotsThumbs/5.png)](fastlane/metadata/android/en-GB/images/phoneScreenshots/5.png)
@@ -74,6 +74,7 @@ Installing the app via F-Droid makes it updateable through the F-Droid mechanism
 
 </details>
 
+    
 # About the app
 
 The app was designed with data in mind. All data is easily accessible via the app's files folder in `Android/data/me.anon.grow/files/`. You will need a file explorer to browse this folder, or alternatively, you can back your data up via the app settings which will create copies in `backups/GrowTracker/`
@@ -82,12 +83,10 @@ The structure is very simple, and consists of a few different objects.
 
 *Note*: date timestamps are all unix timestamps from 1/1/1970 in milliseconds. All objects in arrays are in date order, where index 0 is the oldest and index (size - 1) is the newest.
 
-## API Data structure
+## Plant object
 
 <details>
   <summary>Expand section</summary>
-
-### Plant object
 
 - `plantDate` in milliseconds
 - `images` is an array of file paths. Image file names are the taken date as unix timestamp in milliseconds
@@ -112,7 +111,7 @@ One of,
 
 `SOIL`, `HYDRO`, `COCO`, `AERO`
 
-### Actions
+## Actions
 
 All actions have the following 3 properties
 
@@ -233,7 +232,7 @@ One of,
 }
 ```
 
-### Garden object
+## Garden object
 
 The garden object is similar to the plant object, and accepts `Action` types, but is software-restricted to the following
 
@@ -298,29 +297,31 @@ Encryption in the app uses basic AES for encryption using a provided passphrase.
 
 You can decrypt your files using your passphrase either by writing a script that uses AES decryption, or an online tool such as [Online-Domain-Tools](http://aes.online-domain-tools.com/).
 
-# Translators
+# Translations
 
 Translating is done conveniently through [Transifex](https://www.transifex.com/growutils/growtracker/)
 
 See [more](https://github.com/7LPdWcaW/GrowTracker-Android/issues/116) about translating GrowTracker
 
-Translations provided by;
+<details>
+  <summary>Translation contributors</summary>
 
-- Chinese (Taiwan) - ![TW - Chinese (Taiwan)](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/zh_TW/translated.png); Chief Ndora (chiefndora), codecyang
-- Dutch - ![NL - Dutch](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/nl_NL/translated.png); Heimen Stoffels (Vistaus)
-- French - ![FR - French](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/fr/translated.png); Maxtille, yassine azirem (yassix.well)
-- German - ![DE - German](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/de_DE/translated.png); Acrylic Boy, Alex (Noxmiles), Basti B (Weltenesche), Patrick B (EukalyptusX), Sascha Zenglein (szenglein), Vexatos, W Q (williq)
-- Hungarian - ![HU - Hungarian](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/hu/translated.png);
-- Norwegian Bokmål - ![NB - Norwegian Bokmål](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/nb/translated.png); Syver Stensholt (SuperPotato)
-- Russian - ![RU - Russian](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/ru/translated.png); 9YbQiuEohUu1
-- Slovenian - ![SI - Slovenian](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/sl_SI/translated.png); Klemen Skerbiš (aha999)
-- Spanish - ![ES - Spanish](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/es/translated.png); EmmanuelMess, Raul Choque (choqueraul123)
-- Ukranian - ![UK - Ukrainian](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/uk/translated.png); 9YbQiuEohUu1
+- Alex (Noxmiles) - de ![DE - German](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/de_DE/translated.png)
+- Basti B (Weltenesche) - de ![DE - German](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/de_DE/translated.png)
+- Heimen Stoffels (Vistaus) - nl ![NL - Dutch](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/nl_NL/translated.png)
+- EmmanuelMess - es ![ES - Spanish](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/es/translated.png)
+- Maxtille - fr ![FR - French](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/fr/translated.png)
+- Patrick B (EukalyptusX) - de ![DE - German](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/de_DE/translated.png)
+- Sascha Zenglein (szenglein) - de ![DE - German](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/de_DE/translated.png)
+- Vexatos - de ![DE - German](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/de_DE/translated.png)
+- W Q (williq) - de ![DE - German](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/de_DE/translated.png)
+- 9YbQiuEohUu1 - ru/uk ![UK - Ukrainian](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/uk/translated.png) ![RU - Russian](https://transifex-open-api.herokuapp.com/badge/growutils/project/growtracker/language/ru/translated.png)
 
+  </details>
 
 # License
 
-Copyright 2014-2021 7LPdWcaW
+Copyright 2014-2019 7LPdWcaW
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -333,3 +334,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
